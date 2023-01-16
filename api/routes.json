@@ -2,5 +2,26 @@
     "/posts/whiskys/": "/whiskys",
     "/posts/whiskys/create": "/whiskys",
     "/posts/whiskys\\?id=:id/delete": "/whiskys/:id",
-    "/posts/whiskys\\?id=:id/put": "/whiskys/:id"
+    "/posts/whiskys\\?id=:id/put": "/whiskys/:id", 
+
+
+    "/posts/charutos/": "/charutos",
+    "/posts/charutos/create": "/charutos",
+    "/posts/charutos\\?id=:id/delete": "/charutos/:id",
+    "/posts/charutos\\?id=:id/put": "/charutos/:id",
+
+    "/posts/beers/": "/beers",
+    "/posts/beers/create": "/beers",
+    "/posts/beers\\?id=:id/delete": "/beers/:id",
+    "/posts/beers\\?id=:id/put": "/beers/:id",
+    
+    "/posts/drinks/": "/drinks",
+    "/posts/drinks/create": "/drinks",
+    "/posts/drinks\\?id=:id/delete": "/drinks/:id",
+    "/posts/drinks\\?id=:id/put": "/drinks/:id",
+
+    "/posts/foods/": "/foods",
+    "/posts/foods/create": "/foods",
+    "/posts/foods\\?id=:id/delete": "/foods/:id",
+    "/posts/foods\\?id=:id/put": "/foods/:id"
 }
