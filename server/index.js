@@ -1,15 +1,8 @@
 const jsonServer = require('json-server');
 const server = jsonServer.create();
 const middleware = jsonServer.defaults();
-
+const router = jsonServer.router("./api/db.json")
 
 server.use(middleware)
-server.use((req, res, next) => {
-    res.header('Access-Control-Allow-Origin', '*')
-    res.header('Access-Control-Allow-Headers', '*')
-    next()
-})
-
-server.listen(3000, () => {
-    console.log('Server Runing Port: 3000');
-})
+server.use(router)
+server.listen(3200)
