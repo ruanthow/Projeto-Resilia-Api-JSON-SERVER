@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon ./server/index.js"
+    "start": "json-server --watch ./server/index.js"
   },
   "dependencies": {
     "json-server": "^0.17.1",

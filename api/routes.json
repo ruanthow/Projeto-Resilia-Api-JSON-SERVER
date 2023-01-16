@@ -1,0 +1,6 @@
+{
+    "/posts/whiskys/": "/whiskys",
+    "/posts/whiskys/create": "/whiskys",
+    "/posts/whiskys\\?id=:id/delete": "/whiskys/:id",
+    "/posts/whiskys\\?id=:id/put": "/whiskys/:id"
+}

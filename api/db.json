@@ -1,0 +1,416 @@
+{
+  "whiskys": [
+    {
+      "id": 1,
+      "name": "Whisky Blinders Wood",
+      "age": "16 anos",
+      "amount": "750ml",
+      "line": "Escocês",
+      "price": 235
+    },
+    {
+      "id": 2,
+      "name": "Whisky Blinders 1917",
+      "age": "25 anos",
+      "type": "Seco e Forte",
+      "amount": "750ml",
+      "price": 213
+    },
+    {
+      "id": 3,
+      "name": "Whisky Blinders Thin",
+      "age": "12 anos",
+      "amount": "750ml",
+      "line": "Escocês",
+      "price": 189
+    },
+    {
+      "id": 4,
+      "name": "Whisky Blinders Poly Memorys",
+      "age": "16 anos",
+      "amount": "750ml",
+      "line": "Escocês",
+      "price": 240
+    },
+    {
+      "id": 5,
+      "name": "Whisky Johnnie Walker Red Label",
+      "age": "16 anos",
+      "amount": "1L",
+      "line": "Americano",
+      "price": 109
+    },
+    {
+      "id": 6,
+      "name": "Highland Park",
+      "age": "18 anos",
+      "amount": "700ml",
+      "line": "Escocês",
+      "price": 2000
+    },
+    {
+      "id": 7,
+      "name": "Whisky Old Parr",
+      "age": "18 anos",
+      "amount": "750ml",
+      "line": "Americano",
+      "price": 352.5
+    },
+    {
+      "id": 8,
+      "name": "Black Desert",
+      "age": "18 anos",
+      "amount": "1L",
+      "line": "Americano",
+      "price": 300
+    },
+    {
+      "id": 9,
+      "name": "Whisky Green Label",
+      "age": "18 anos",
+      "amount": "1L",
+      "line": "Americano",
+      "price": 300
+    }
+  ],
+  "charutos": [
+    {
+      "id": 1,
+      "name": "Saravá",
+      "unit": 15,
+      "aroma": "Natural",
+      "type": "Suave",
+      "price": 221
+    },
+    {
+      "id": 2,
+      "name": "Charuto Blinders Orders",
+      "unit": 11,
+      "aroma": "Natural",
+      "type": "Forte",
+      "price": 235
+    },
+    {
+      "id": 3,
+      "name": "Talvis Chocolate Zp7",
+      "unit": 1,
+      "aroma": "Chocolate",
+      "type": "Suave",
+      "price": 32
+    },
+    {
+      "id": 4,
+      "name": "Habano",
+      "unit": 1,
+      "aroma": "Natural",
+      "type": "Forte",
+      "price": 27.9
+    },
+    {
+      "id": 5,
+      "name": "Don Fernando Generosos",
+      "unit": 2,
+      "aroma": "Natural",
+      "type": "Forte",
+      "price": 180
+    },
+    {
+      "id": 6,
+      "name": "Kit Charutos Gentili",
+      "unit": 4,
+      "aroma": "Natural",
+      "type": "Suave",
+      "price": 200
+    }
+  ],
+  "beers": [
+    {
+      "id": 1,
+      "name": "Cerveja Artesanal Blinders Orders",
+      "unit": 1,
+      "amount": "600ml",
+      "type": "Forte",
+      "price": 12.5
+    },
+    {
+      "id": 2,
+      "name": "Cerveja Artesanal Blinders Bullet",
+      "unit": 1,
+      "amount": "600ml",
+      "type": "Tradicional",
+      "price": 12
+    },
+    {
+      "id": 3,
+      "name": "Cerveja Artesanal Blinders Birmingham City",
+      "unit": 1,
+      "amount": "600ml",
+      "type": "Suave",
+      "price": 12.8
+    },
+    {
+      "id": 4,
+      "name": "Heineken",
+      "unit": 1,
+      "amount": "600ml",
+      "type": "Tradicional",
+      "price": 8
+    },
+    {
+      "id": 5,
+      "name": "Corona",
+      "unit": 1,
+      "amount": "600ml",
+      "type": "Tradicional",
+      "price": 12
+    },
+    {
+      "id": 6,
+      "name": "Stella",
+      "unit": 1,
+      "amount": "600ml",
+      "type": "Tradicional",
+      "price": 8
+    },
+    {
+      "id": 7,
+      "name": "Bohemia Puro Malte",
+      "unit": 1,
+      "amount": "600ml",
+      "type": "Puro Malte",
+      "price": 7.8
+    },
+    {
+      "id": 8,
+      "name": "Imperio Gold",
+      "unit": 1,
+      "amount": "600ml",
+      "type": "Puro Malte",
+      "price": 9
+    },
+    {
+      "id": 9,
+      "name": "Brahma Puro Malte",
+      "unit": 1,
+      "amount": "350ml",
+      "type": "Puro Malte",
+      "price": 6.3
+    },
+    {
+      "id": 9,
+      "name": "Brahma Pilsen",
+      "unit": 1,
+      "amount": "600ml",
+      "type": "Pilsen",
+      "price": 7.5
+    },
+    {
+      "id": 10,
+      "name": "Cerveja Cacildis Puro Malte",
+      "unit": 1,
+      "amount": "350ml",
+      "type": "Puro Malte",
+      "price": 6.3
+    },
+    {
+      "id": 11,
+      "name": "Eisenbahn",
+      "unit": 1,
+      "amount": "600ml",
+      "type": "Pilsen",
+      "price": 7.5
+    }
+  ],
+  "drinks": [
+    {
+      "id": 1,
+      "name": "Martini",
+      "unit": 1,
+      "description": "Bebida requintada e clássica, o dry martini é feito com gin e vermute seco. Sua taça é decorada com casca de limão e azeitonas.",
+      "amount": "350ml",
+      "price": 13.6
+    },
+    {
+      "id": 2,
+      "name": "Margarita",
+      "unit": 1,
+      "description": "Direto do México para o mundo, a margarita é um dos drinks mais famosos e desejado.",
+      "amount": "350ml",
+      "price": 11.69
+    },
+    {
+      "id": 3,
+      "name": "Mojito Tradicional",
+      "unit": 1,
+      "description": "Com mais de 100 anos e de origem cubana, essa bebida é um clássico dos bares e festas.",
+      "amount": "350ml",
+      "price": 9.6
+    },
+    {
+      "id": 4,
+      "name": "Sex on The Beach",
+      "unit": 1,
+      "description": "Um drink tropical e refrescante. O sex on the beach leva vodka, licor de pêssego, suco de laranja, xarope de groselha e gelo a gosto.",
+      "amount": "350ml",
+      "price": 14
+    },
+    {
+      "id": 5,
+      "name": "Negroni",
+      "unit": 1,
+      "description": "De origem italiana, o negroni é prático e saboroso. Ele é feito com gin, campari, vermute tinto, gelo e laranja para decorar.",
+      "amount": "350ml",
+      "price": 13.6
+    },
+    {
+      "id": 6,
+      "name": "Daiquiri",
+      "unit": 1,
+      "description": "Para quem é fã de rum. O daiquiri é feito com rum, suco de limão, xarope, gelo e rodelas de limão para decorar a taça.",
+      "amount": "350ml",
+      "price": 9.8
+    },
+    {
+      "id": 7,
+      "name": "Cosmopolitan",
+      "unit": 1,
+      "description": "O cosmopolitan, o drink preferido da Carrie Bradshaw de Sex and the City. Feito com suco de limão, de cranberry, licor de laranja, vodka e gelo.",
+      "amount": "350ml",
+      "price": 14
+    },
+    {
+      "id": 8,
+      "name": "Cuba Libre",
+      "unit": 1,
+      "description": "Feito com Coca-Cola, rum e limão, cuba libre é um drink refrescante.",
+      "amount": "350ml",
+      "price": 12.1
+    },
+    {
+      "id": 9,
+      "name": "Limoncello spritz",
+      "unit": 1,
+      "description": "Esse drink simples e saboroso é feito com gelo, limoncello, vinho branco, água com gás e decorado com cascas de limão-siciliano.",
+      "amount": "350ml",
+      "price": 14
+    },
+    {
+      "id": 10,
+      "name": "Pinã Colada",
+      "unit": 1,
+      "description": "Para quem gosta de um drink mais doce, a piña colada é a opção ideal. Ela é feita com rum, leite de coco, suco de abacaxi, açúcar e gelo.",
+      "amount": "350ml",
+      "price": 16.3
+    },
+    {
+      "id": 11,
+      "name": "Sangria",
+      "unit": 1,
+      "description": "Esse drink é clássico. Além de gostoso é feito com limão, pessego, maça, vinho tinto, licor de laranja com gelo ou sem.",
+      "amount": "350ml",
+      "price": 17.5
+    },
+    {
+      "id": 12,
+      "name": "Gin Tônico com Limão-Siciliano",
+      "unit": 1,
+      "description": "Trata-se de um drink refrescante, crítico e com um toque adocicado.",
+      "amount": "350ml",
+      "price": 13.6
+    },
+    {
+      "id": 13,
+      "name": "Caipirinha de limão",
+      "unit": 1,
+      "description": "Esse drink leva Vodka e limão, bebida gelada e refrescante",
+      "amount": "350ml",
+      "price": 13.6
+    },
+    {
+      "id": 13,
+      "name": "Caipirinha de morango",
+      "unit": 1,
+      "description": "Esse drink leva Vodka e morango, bebida gelada e refrescante",
+      "amount": "350ml",
+      "price": 15.6
+    },
+    {
+      "id": 13,
+      "name": "Caipirinha de maracujá",
+      "unit": 1,
+      "description": "Esse drink leva Vodka e maracujá, bebida gelada e refrescante",
+      "amount": "350ml",
+      "price": 14.6
+    },
+    {
+      "id": 13,
+      "name": "Caipirinha de abacaxi com hortelã",
+      "unit": 1,
+      "description": "O diferencial dessa caipirinha é que ela é feita no próprio abacaxi. Mas claro, ou no copo normalmente.",
+      "amount": "350ml",
+      "price": 18.2
+    }
+  ],
+  "foods": [
+    {
+      "id": 1,
+      "name": "Fish and Chips",
+      "description": "Uma das comidas mais típicas da Inglaterra é o tradicional prato de peixe com fritas, muito comum e popular.",
+      "price": 19.2
+    },
+    {
+      "id": 2,
+      "name": "Bangers and Mash",
+      "description": "Este outro prato típico inglês, composto por salsichão e purê de batatas.",
+      "price": 20
+    },
+    {
+      "id": 3,
+      "name": "Toad in the hole",
+      "description": "Prato típico da Inglaterra é esta receita feita com salsichas e massa.",
+      "price": 20.2
+    },
+    {
+      "id": 4,
+      "name": "Wellington Beef",
+      "description": "Sua receita tem como ingredientes principais filé de bife, cogumelos, massa folhada e patê. É uma deliciosa opção de refeição para quem escolhe fazer intercâmbio em Londres.",
+      "price": 26.5
+    },
+    {
+      "id": 5,
+      "name": "Yorkshire Pudding",
+      "description": "Muito popular na Inglaterra é o Yorkshire pudding, feito à base de farinha, leite e ovos. O nome remete à sua origem: a cidade de Yorkshire. Geralmente, ele é servido com carnes assadas e muito molho.",
+      "price": 22.4
+    },
+    {
+      "id": 6,
+      "name": "Frango a passarinho",
+      "description": "Muito popular no Brasil a refeita leva frango frito, cebola picada, cheiro-verde bem picado, orégano e acompanhado de fatias de limão, caindo muito bem com uma boa cerveja. ",
+      "price": 24.5
+    },
+    {
+      "id": 7,
+      "name": "Croquete de calabresa",
+      "description": "É um bolinho frito bem croquante que leva calabresa, cebola e molho",
+      "price": 23.5
+    },
+    {
+      "id": 8,
+      "name": "Bolinho de Bacalhau",
+      "description": "Um bolinho croquante com receio de bacalhau fesfiado e desalgado com binados com batata amassada formando um bolinho delicioso.",
+      "price": 35.65
+    },
+    {
+      "id": 9,
+      "name": "Batata frita com Carne seca",
+      "description": "Um prato tipico de barzinho levando batata frita em fatias com carne seca desfiada com cebola e cheiro-verde.",
+      "price": 22.54
+    },
+    {
+      "id": 10,
+      "name": "Peixe frito estilo buteco",
+      "description": "Filé de peixe frito frito sequinho com fatias de limão que acompanham o patro, um pedida bem leve para quem gosta de comer algo mais leve.",
+      "price": 22.4
+    }
+  ]
+}
